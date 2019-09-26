@@ -1,1 +1,1 @@
-# DEND
+# Data Engineering Nanodegree
