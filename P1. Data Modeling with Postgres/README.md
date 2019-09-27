@@ -34,3 +34,15 @@ artists - artists in music database
 artist_id, name, location, latitude, longitude
 time - timestamps of records in songplays broken down into specific units
 start_time, hour, day, week, month, year, weekday
+
+
+# pandas
+Pandas library used to read the files in Data frame.
+# datetime
+datetime library used to use datetime function
+
+
+- **process_song_file:** This function is used to read the song file and insert details with selected columns into song and artist dimension table.
+- **process_log_file:** read one by one log file and insert details with selected columns into user, time and songplays tables.
+- **process_data:** collect all the file paths and call the above two function and show status of files processed.
+
