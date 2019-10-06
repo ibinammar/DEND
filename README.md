@@ -17,7 +17,7 @@ In this lesson, students understand the purpose of data modeling, the strengths 
 ### NoSQL Data Models
 Students will understand when to use non-relational databases based on the data business needs, their strengths and weaknesses, and how to creates tables in Apache Cassandra.
 
-- **Project:** Data Modeling with Apache Cassandra
+- **Project:** [Data Modeling with Apache Cassandra](https://github.com/ibinammar/DEND/tree/master/P2.%20Data%20Modeling%20with%20Apache%20Cassandra)
   - Students will model event data to create a non-relational database and ETL pipeline for a music streaming app. They will define queries     and tables for a database built using Apache Cassandra.
 
 ## Cloud Data Warehouses
