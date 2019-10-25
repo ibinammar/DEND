@@ -22,6 +22,5 @@ Using non-relational databases based on the data business needs, their strengths
 
 ## Cloud Data Warehouses
 
-- **Project:** [Data Warehouse] 
-(https://github.com/ibinammar/DEND/tree/master/P3.%20Cloud%20Data%20Warehouses)
+- **Project:** [Data Warehouse](https://github.com/ibinammar/DEND/tree/master/P3.%20Cloud%20Data%20Warehouses)
   - An ETL pipeline that extracts data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team.
