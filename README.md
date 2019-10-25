@@ -23,4 +23,4 @@ Using non-relational databases based on the data business needs, their strengths
 ## Cloud Data Warehouses
 
 - **Project:** Data Warehouse
-  -An ETL pipeline that extracts data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team.
+  - An ETL pipeline that extracts data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team.
